@@ -18,7 +18,7 @@ namespace lv5_kalkulator
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-
+ghghg
         }
     }
 }
